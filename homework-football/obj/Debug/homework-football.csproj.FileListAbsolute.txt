@@ -1,0 +1,7 @@
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\bin\Debug\homework-football.exe.config
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\bin\Debug\homework-football.exe
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\bin\Debug\homework-football.pdb
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\obj\Debug\homework-football.csprojAssemblyReference.cache
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\obj\Debug\homework-football.csproj.CoreCompileInputs.cache
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\obj\Debug\homework-football.exe
+C:\Users\anast\OneDrive\Desktop\homeworks\homework-football\homework-football\obj\Debug\homework-football.pdb
